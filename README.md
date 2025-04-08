@@ -1,11 +1,11 @@
 # Hi there, I’m **Songyu Yang**! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**Machine Learning Engineer & Data Analyst** with 3+ years of experience delivering cutting-edge solutions in computer vision, NLP, wearable tech, and cloud computing. My background spans academia and the finance sector, with a passion for building end-to-end AI systems.
+**Machine Learning Engineer & Data Analyst** with 3+ years of experience delivering cutting-edge solutions in ML, computer vision, LLM, cloud computing, and  wearable tech. My background spans academia and the finance sector, with a passion for building end-to-end AI systems.
 
 ---
 
 ## :eyes: What I’m Looking For
-I’m seeking opportunities to innovate at the intersection of **machine learning**, **cloud computing**, and **finance/biotech** — where I can leverage my expertise in **end-to-end ML pipelines**, **big data analytics**, and **scalable AI** deployments.
+I’m seeking opportunities to innovate at the intersection of **machine learning**, **Data Analyst**, **cloud computing**, and **fintech/biotech** — where I can leverage my expertise in **end-to-end ML pipelines**, **big data analytics**, and **scalable AI** deployments.
 
 ---
 
