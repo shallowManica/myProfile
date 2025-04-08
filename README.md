@@ -4,7 +4,7 @@
 
 ---
 
-## :eyes: What I’m Looking For
+## :rocket: What I’m Looking For
 I’m seeking opportunities to innovate at the intersection of **machine learning**, **Data Analyst**, **cloud computing**, and **fintech/biotech** — where I can leverage my expertise in **end-to-end ML pipelines**, **big data analytics**, and **scalable AI** deployments.
 
 ---
